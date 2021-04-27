@@ -9,4 +9,4 @@ O banco de dados foi criado em formato JSON e chamado de db.json, e também o se
 
 # Armazenamento
 
-Você pode ver seu funcionamento em [Meu Burger API](https://meu-burger-api.herokuapp.com/) e clicar em /burgers, ou, acessá-lo diretamente por aqui [Meu Burger API / Burgers](https://meu-burger-api.herokuapp.com/).
+Você pode ver seu funcionamento em [Meu Burger API](https://meu-burger-api.herokuapp.com/) e clicar em /burgers, ou, acessá-lo diretamente por aqui [Meu Burger API / Burgers](https://meu-burger-api.herokuapp.com/burgers).
